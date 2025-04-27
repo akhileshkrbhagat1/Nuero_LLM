@@ -1,4 +1,4 @@
-# HIVE Personal Assistant
+# Nuero Personal Assistant
 
 ## Overview
 This project is a **Personal Assistant** developed by **Akhilesh** using **Python 3.10**. The assistant is designed to classify and handle various types of user queries efficiently. It integrates multiple models and automation scripts to provide accurate responses, real-time data retrieval, task automation, image generation, and IoT control.
